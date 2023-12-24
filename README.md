@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi! 👋
+- 🔭 I’m currently working on: `go` APIs
+- 🌱 I’m currently learning: `go`
 
 <!--
 **dpi0/dpi0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
