@@ -2,7 +2,12 @@
 - 🔭 I’m currently working on: `go` APIs
 - 🌱 I’m currently learning: `go`
 
-  <img align="center" alt="Coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--WXI5d2Ru--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_800/https://media1.tenor.com/images/0c34272909ee2a4db5606a014082312b/tenor.gif%3Fitemid%3D15828752">
+
+![dpi0's GitHub stats](https://github-readme-stats.vercel.app/api?username=dpi0&show_icons=true&theme=gruvbox) ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=316cusgw7nhtsumlnw752txbnla4&count=2)
+
+![trophy](https://github-profile-trophy.vercel.app/?username=dpi0&theme=gruvbox)
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
 <!--
 **dpi0/dpi0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
