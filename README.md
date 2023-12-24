@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning: `go`
 
 
-![dpi0's GitHub stats](https://github-readme-stats.vercel.app/api?username=dpi0&show_icons=true&theme=gruvbox) ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=316cusgw7nhtsumlnw752txbnla4&count=2)
-
+![dpi0's GitHub stats](https://github-readme-stats.vercel.app/api?username=dpi0&show_icons=true&theme=gruvbox)
 ![trophy](https://github-profile-trophy.vercel.app/?username=dpi0&theme=gruvbox)
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
