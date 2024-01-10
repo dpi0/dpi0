@@ -4,9 +4,7 @@
 
 
 ![dpi0's GitHub stats](https://github-readme-stats.vercel.app/api?username=dpi0&show_icons=true&theme=gruvbox)
-![trophy](https://github-profile-trophy.vercel.app/?username=dpi0&theme=gruvbox)
 
-![Jokes Card](https://readme-jokes.vercel.app/api)
 
 <!--
 **dpi0/dpi0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
